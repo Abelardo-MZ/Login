@@ -7,6 +7,12 @@
     "allowOffline": true
   },
   {
+    "id": "27de022eea2be413",
+    "username": "Abelardo",
+    "password": "Abelardo",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  {
     "id": "android_device_id_2",
     "username": "user2",
     "password": "pass2",
