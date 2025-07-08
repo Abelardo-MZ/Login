@@ -1,17 +1,25 @@
 [
   {
     "id": "6d95fal7c7e40bea",
+    "username": "Abelardo",
+    "password": "Abelardo",
+    "expiresAt": "2025-12-31",
+    "allowOffline": true
+  },
+  {
+    "id": "6d95fal7c7e40bea",
     "username": "dpmods",
     "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
   },
   {
-    "id": "27de022eea2be413",
-    "username": "Abelardo",
-    "password": "Abelardo",
+    "id": "6d95fal7c7e40bea",
+    "username": "dpmods",
+    "password": "dpmods",
     "expiresAt": "2025-12-31",
     "allowOffline": true
+  },
   {
     "id": "android_device_id_2",
     "username": "user2",
@@ -19,3 +27,4 @@
     "expiresAt": "2025-11-30",
     "allowOffline": false
   }
+]
